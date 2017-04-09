@@ -1,0 +1,8 @@
+node_modules
+.idea
+*.log
+*.js
+*.js.map
+!systemjs.config.js
+!typings/pixi.js
+!app/remote/*.js
