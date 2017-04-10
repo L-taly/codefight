@@ -4,6 +4,7 @@
 require('pixi.js');
 
 export class Spine extends PIXI.Container{
+    //
     private _head_height:number = 30;
     private _head_width:number = 30;
     private _body_height:number = 30;
